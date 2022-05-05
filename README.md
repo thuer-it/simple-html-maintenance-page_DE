@@ -1,9 +1,6 @@
-# Maintenance
+# Wartung
+Dies ist eine einfache Wartungsseite, die Sie gerne benutzen können!
 
-This is a simple maintenance page feel free to use it !
-
-## How to install
-
-Simply download the index.html, modify its content, and copy it to your desired path.
-
-Additionally you can use the provided install.sh script.
+## Wie man es installiert
+Laden Sie einfach die index.html herunter, ändern Sie ihren Inhalt und kopieren Sie sie in den gewünschten Pfad.
+Zusätzlich können Sie das mitgelieferte install.sh Skript verwenden.
